@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
-I am Samama Babar(https://github.com/Samamababar1), a passionate individual dedicated to the world of technology and Web Development.
+I am Samama Babar(https://github.com/Samamababar1), a passionate individual dedicated to the world of technology and web development.
 
 ## Interests
 - User Interface (UI)
@@ -10,8 +10,8 @@ I am Samama Babar(https://github.com/Samamababar1), a passionate individual dedi
 - Web Animation
 - Web Design
 - Front-End Development
-- Wordpress Development
-- Shopify Store Setup
+- Wordpress
+- Shopify
 - Content Management Systems
 
 ## Current Learning Focus
