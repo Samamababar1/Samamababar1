@@ -22,7 +22,7 @@ I am continually expanding my knowledge and skills in various areas, including:
 - Back-End Development
 - Full-Stack Development
 - Third Party Integration
-- 
+  
 ## Collaboration Opportunities
 I am open to collaborating on exciting projects and contributing to meaningful initiatives.
 If you have a project in mind or would like to discuss potential collaborations, please feel free to reach out.
