@@ -28,7 +28,7 @@ I am open to collaborating on exciting projects and contributing to meaningful i
 If you have a project in mind or would like to discuss potential collaborations, please feel free to reach out.
 
 ## Contact Information
-You can contact me via Email (samamababar1@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/samama-babar-93127b233).
+You can contact me via Email (samamababar1@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/samamababar1).
 
 Thank you for visiting my GitHub profile. I look forward to exploring opportunities and engaging with the GitHub community.
 
